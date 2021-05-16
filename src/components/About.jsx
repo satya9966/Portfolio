@@ -58,7 +58,7 @@ class About extends Component {
                   <div className="desc">
                     <h3>Web Development </h3>
                     <p>
-                     Coding <b>personalised websites</b> using MERN stack that are eficient and fast
+                     Coding <b>personalised websites</b> using MERN stack that are efficient and fast.
                     </p>
                   </div>
                 </div>
