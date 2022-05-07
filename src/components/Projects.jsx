@@ -35,11 +35,8 @@ export default class Projects extends Component {
                   </div>
                 </div>
               </div>
-              
-              
-            </div>
-<div className="row">
-              <div
+
+<div
                 className="col-md-5 animate-box"
                 data-animate-effect="fadeInLeft"
               >
@@ -60,7 +57,7 @@ export default class Projects extends Component {
               
               
             </div>
-          </div>
+            </div>
         </section>
 
       </div>
