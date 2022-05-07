@@ -75,7 +75,7 @@ export default class Timeline extends Component {
                             <a
                               style={{color:'white'}}
                               className="btn btn-danger"
-                              href="https://drive.google.com/file/d/1AsvleyUOtxSIY1y378C2SqAbzkkdZsQS/view?usp=sharing"
+                              href="https://drive.google.com/file/d/1hRnwpMyx_fPDvtrKondG0ieRwDTN_h7E/view?usp=sharing"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
@@ -98,7 +98,7 @@ export default class Timeline extends Component {
                             <a
                               style={{color:'white'}}
                               className="btn btn-success"
-                              href="https://drive.google.com/file/d/1mDOed0VnR2_pSiwx-WKPzfMDH7bxP-Ka/view?usp=sharing"
+                              href="https://drive.google.com/file/d/1MZJUXqY44MywGUSYKnSP5-5XFLSt5T64/view?usp=sharing"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
