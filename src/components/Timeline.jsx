@@ -14,6 +14,30 @@ export default class Timeline extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
+      
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-1">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Completed <b>Azure AZ 900</b>(Azure Fundamentals) from Udemy <span>| Spetember 2021</span></h2>
+                        <p>During this course period I had understanding of cloud basics and learnt lot of technology involved in cloud computing</p>
+                        <p className="mt-4">
+                            <a
+                              style={{color:'white'}}
+                              className="btn btn-danger"
+                              href="https://drive.google.com/file/d/1nt6QBbjpURMLEb84DH3DKOixYsipApWT/view?usp=sharing"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              Certificate{' '}
+                              <i className="icon-download4" style={{color:'white'}} />
+                            </a>
+                          </p>
+                      </div>
+                    </div>
+                  </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-3">
