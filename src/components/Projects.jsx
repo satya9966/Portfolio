@@ -23,20 +23,20 @@ export default class Projects extends Component {
               >
                 <div
                   className="project"
-                  style={{ backgroundImage: "url(images/youtube-screenshot.png)" }}
+                  style={{ backgroundImage: "url(images/Agrobot.png)" }}
                 >
                   <div className="desc">
                     <div className="con">
                       <h3>
-                        <a href="https://yt-clone-react.netlify.app/">Youtube Clone-React</a>
+                        <a href="https://agrobot.netlify.app">Agrobot</a>
                       </h3>
-                    <span>ReactJS and Youtube API</span>
+                    <span>Chatbot for agricultural queries</span>
                     </div>
                   </div>
                 </div>
               </div>
 
-<div
+             <div
                 className="col-md-5 animate-box"
                 data-animate-effect="fadeInLeft"
               >
