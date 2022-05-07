@@ -26,7 +26,7 @@ export default class Timeline extends Component {
                         <p className="mt-4">
                             <a
                               style={{color:'white'}}
-                              className="btn btn-danger"
+                              className="btn btn-warning"
                               href="https://drive.google.com/file/d/1nt6QBbjpURMLEb84DH3DKOixYsipApWT/view?usp=sharing"
                               target="_blank"
                               rel="noopener noreferrer"
@@ -48,6 +48,18 @@ export default class Timeline extends Component {
                         <p>During 14 day internship period learned and practiced wide range of  <b>Web development </b>technologies</p>
                         <p>These technologies include HTML,CSS,JavaScript,<b>React JS,Node JS,MongoDB,Bootstrap</b></p>
                         <p>This is <b>full stack web development</b> course using <b>MERN</b> stack </p>
+                        <p className="mt-4">
+                            <a
+                              style={{color:'white'}}
+                              className="btn btn-info"
+                              href="https://drive.google.com/file/d/1qkzEGFngcZtYIpCfosZej6KKqI_jI79x/view?usp=sharing"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              Certificate{' '}
+                              <i className="icon-download4" style={{color:'white'}} />
+                            </a>
+                          </p>
                       </div>
                     </div>
                   </article>
