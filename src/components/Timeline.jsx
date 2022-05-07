@@ -22,7 +22,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Completed <b>Azure AZ 900</b>(Azure Fundamentals) <span>| Spetember 2021</span></h2>
-                        <p>During this course period I had understanding of cloud basics and learnt lot of technology involved in cloud computing</p>
+                        <p>During this course period I had understanding of cloud basics and learnt about various technologies involved in cloud computing</p>
                         <p className="mt-4">
                             <a
                               style={{color:'white'}}
