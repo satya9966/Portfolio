@@ -44,7 +44,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>14 Day <b>Web Development</b>Internship at Edumoon Bootcamp <span>| May 2021</span></h2>
+                        <h2>14 Day <b>Web Development</b> Internship at Edumoon Bootcamp <span>| May 2021</span></h2>
                         <p>During 14 day internship period learned and practiced wide range of  <b>Web development </b>technologies</p>
                         <p>These technologies include HTML,CSS,JavaScript,<b>React JS,Node JS,MongoDB,Bootstrap</b></p>
                         <p>This is <b>full stack web development</b> course using <b>MERN</b> stack </p>
